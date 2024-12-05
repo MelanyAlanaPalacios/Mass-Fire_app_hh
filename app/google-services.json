@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "289893719458",
+    "project_id": "mass-bd",
+    "storage_bucket": "mass-bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289893719458:android:258d10fbbc65b71a8426fb",
+        "android_client_info": {
+          "package_name": "com.example.mass_fire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq-TuEbsO392ut9s_gXt7YJ-yb2GPM9lU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
